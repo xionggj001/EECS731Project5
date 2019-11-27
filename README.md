@@ -42,6 +42,6 @@ Before learning, we use Box-Cox data transformations to evaluate a set of lambda
 
 
 
-#Conclusion
+# Conclusion
 
 Since the products are manufactured in different locations all over the world, it normally takes more than one month to ship products via ocean to different central warehouses. If forecasts for each product in different central with reasonable accuracy for the monthly demand for month after next can be achieved, it would be beneficial to the company in multiple ways.
